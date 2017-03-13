@@ -4,7 +4,7 @@
 * Use access modifiers: private, protected and public
 - Override methods
 - Overload constructors and methods
-- Use the instance operator and casting
+- Use the instanceof operator and casting
 - Use virtual method invocation
 - Override the hashCode, equals, and to String methods from the Object class to improve the functionality of your class
 - Use package and import statements
