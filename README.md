@@ -1,7 +1,7 @@
 # OCP SE 7 Exam Topic 
 
 ## Java Class Design
-* Use access modifiers: private, protected and public
+- Use access modifiers: private, protected and public
 - Override methods
 - Overload constructors and methods
 - Use the instanceof operator and casting
@@ -96,7 +96,7 @@
 - Call a resource bundle from an application
 - Format dates, numbers, and currency values for localization with the NumberFormat and DateFormat classes (including number format patterns)
 - Describe the advantages of localizing an application
-- Define a locale using language and country codes
+- Define a locale using language and country codes∏
 
 #References
 
