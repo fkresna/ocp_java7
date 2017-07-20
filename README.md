@@ -21,7 +21,7 @@
 
 - Write code that declares, implements and/or extends interfaces
 - Choose between interface inheritance and class inheritance
-- Apply cohesion, low-coupling, IS-A and HAS-A principles
+- Apply cohesion, low-coupling, IS-A and HAS-A principlesad
 - Apply object composition principles (including has-a relationships)
 - Design a class using a Singleton design pattern
 - Write code to implement the Data Access Object (DAO) pattern

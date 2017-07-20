@@ -31,3 +31,20 @@
     E. If the hashCode() comparison != return true, the equals() method might return true
     Answer: B and D. B is true because often two dissimilar objects can return the same hashcode value. D is true because if the hashCode() comparison returns ==, the two objects might or might not be equal.
     A, C, and E are incorrect. C is incorrect because the hashCode() method is very flexible in its return values, and often two dissimilar objects can return the same hashcode value. A and E are a negation of the hashCode() and equals() contract. 
+
+3. Given 
+    public static void before() {
+        Set set = new TreeSet();
+        set.add("2");
+        set.add(3);
+        set.add("1");
+        Iterator it = set.iterator();
+            while (it.hasNext())
+        System.out.print(it.next() + " ");
+    }
+    Which statements are true?
+    A. The before() method will print 1 2
+    B. The before() method will print 1 2 3 
+    C. The before() method will print three numbers, but the order cannot be determined
+    D. The before() method will not compile
+    E. The before() method will throw an exception at runtime
